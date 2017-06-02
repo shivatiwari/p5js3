@@ -1,7 +1,5 @@
 var bubbles = [];
 
-
-
 function setup()
 {
   createCanvas(innerWidth,innerHeight);
